@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2023-07-15
+date: 2023-08-01
 img: game.png
 alt: image-alt
-project-date: April 2023
-client: Start Bootstrap
-category: Web Development
+title: Training Improvement Planning
+project-date: June - July 2023
+client: Yale ITS Help Desk
+category: Help Desk
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---

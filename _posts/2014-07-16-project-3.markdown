@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2023-07-16
+date: 2023-08-01
 img: circus.png
 alt: image-alt
-project-date: April 2023
-client: Start Bootstrap
-category: Web Development
+title: Test Scenarios
+project-date: July - Aug. 2023
+client: Yale ITS Service Management
+category: Service Management
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
