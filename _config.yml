@@ -1,12 +1,12 @@
 # Site settings
 title: Portfolio page
-email: zhongheng.sun@yale.edu
+email: rlacobelle02@gmail.com
 url: 
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "I am a recent graduate of Southern University System (SUS)
-I have some imposter syndrome but I am confident of my skills and ability in web development"
-meta_author: LastName FirstName
+description: "Yale ITS 2023 Internship Graduation Portfolio"
+keywords: "Internship, Yale University, Information Technology Services, ServiceNow"
+skills: "I am currently a rising senior at Rensselaer Polytechnic Institute (RPI). 
+I am a Computer Science major with a minor in Chinese."
+meta_author: Lacobelle Rachel
 
 # Google webmaster tools
 google_verify:
@@ -40,16 +40,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/rachel-lacobelle-6527b5193/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/rlacobelle20
 
 # Postal address (add as many lines as necessary)
 address:
