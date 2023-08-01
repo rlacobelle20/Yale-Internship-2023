@@ -3,7 +3,7 @@ title: Portfolio page
 email: rlacobelle02@gmail.com
 url: 
 description: "Yale ITS 2023 Internship Graduation Portfolio"
-keywords: "Internship, Yale University, Information Technology Services, ServiceNow"
+keywords: "Internship, Yale University, Information Technology Services, Help Desk, Service Management, ServiceNow"
 skills: "I am currently a rising senior at Rensselaer Polytechnic Institute (RPI). 
 I am a Computer Science major with a minor in Chinese."
 meta_author: Lacobelle Rachel
@@ -33,7 +33,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Rachel Lacobelle
   location: Location
   social: Around the Web
   credits: Credits
