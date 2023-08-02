@@ -8,5 +8,5 @@ title: Training
 project-date: June - Aug. 2023
 client: Rachel Lacobelle
 category: Help Desk, Service Management, Personal
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I was required to do set amount of training for my time I spent here this summer. <p>&nbsp;</p> <p>This required training included training on </p> <ul> <li> ITIL </li> <li> ServiceNow </li> <li> Support Desk How To </li> <li> Yale Help Desk Training </li> </ul> <p>&nbsp;</p> <p> In my free time, I also tried to do training on my own through LinkedIn Learn. </p>
 ---

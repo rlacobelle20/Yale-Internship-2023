@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2023-08-01
+img: submarine.png
+alt: image-alt
+title: Assignment Rule Changes
+project-date: Aug. 2023
+client: Service Management
+category: Service Management
+description: Created new assignment rules for business services on ServiceNow.
+---
