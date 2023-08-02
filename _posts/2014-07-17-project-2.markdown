@@ -8,5 +8,5 @@ title: Knowledge Project
 project-date: July - Aug. 2023
 client: Yale ITS Help Desk
 category: Help Desk
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The goal of this project was to organize, update, and edit Knowledge Articles currently in the Yale system. <p>&nbsp;</p> <p> What Did I Do? </p> <ul> <li> Knowledge category update --> reorganized the categories a section of KBs fell under </li> <ul>
 ---
