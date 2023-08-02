@@ -1,11 +1,10 @@
 # Site settings
-title: Portfolio
+title: Yale Internship 2023
 email: rlacobelle02@gmail.com
 url: 
 description: "Yale ITS 2023 Internship Graduation Portfolio"
 keywords: "Internship, Yale University, Information Technology Services, Help Desk, Service Management, ServiceNow"
-skills: "I am currently a rising senior at Rensselaer Polytechnic Institute (RPI). 
-I am a Computer Science major with a minor in Chinese."
+skills: "Hi, my name is Rachel Lacobelle and I am currently a rising senior majoring in Computer Science with a minor in Chinese at Rensselaer Polytechnic Institute (RPI)."
 meta_author: Lacobelle Rachel
 
 # Google webmaster tools
@@ -34,8 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Rachel Lacobelle
-  location: Location
-  social: Around the Web
+  social: Social Platforms
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -44,11 +42,6 @@ social:
     url: https://www.linkedin.com/in/rachel-lacobelle-6527b5193/
   - title: github
     url: https://github.com/rlacobelle20
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
