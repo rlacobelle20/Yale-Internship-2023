@@ -33,6 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Rachel Lacobelle
+  location: Location
   social: Social Platforms
   credits: Credits
 
