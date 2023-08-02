@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2023-07-01
+img: Yale-Symbol.png
+alt: image-alt
+title: ITS Help Desk
+project-date: Aug. 2023
+client: Help Desk
+category: Worked For
+description: Yale ITS Help Desk
+---
