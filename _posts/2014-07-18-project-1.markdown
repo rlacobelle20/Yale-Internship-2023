@@ -8,5 +8,6 @@ title: Incident Recategorization Project
 project-date: June - Aug. 2023
 client: Yale ITS Help Desk
 category: Help Desk and Service Management
-description: The goal of this project was to recategorize and reimplement features in the incident tickets on ServiceNow. <p>&nbsp;</p> <p> What did I do </p> <ul> <li> I analyzed and helped run a meeting going over the data from 5 incident scenarios and the different ways the ticket was filled out. </li>  <li> I wrote high level test cases for the implementation and new updates in the incident form and then helped run through them. </li> <li> I defined and found different definitions for the fields in the incident form. </li> <ul>
+description: The goal of this project was to recategorize and reimplement features in the incident tickets on ServiceNow. <p>&nbsp;</p> <p> What Did I Do? </p> <ul> <li> Ticket from HD Category Training --> analyzed and helped run a meeting going over the data from 5 incident scenarios and the different ways the ticket was filled out </li>  <li> Test Scenarios --> wrote high level test cases for the implementation and new updates in the incident form and then helped run through them. </li> <li> Definitions --> defined and found different definitions for the fields in the incident form. </li> <ul>
+
 ---
