@@ -4,9 +4,8 @@ modal-id: 1
 date: 2023-08-01
 img: cabin.png
 alt: image-alt
-title: Incident Recategorization Project
 project-date: June - Aug. 2023
 client: Yale ITS Help Desk
 category: Help Desk and Service Management
-description: d.
+description: Incident Recategorization Project.
 ---
