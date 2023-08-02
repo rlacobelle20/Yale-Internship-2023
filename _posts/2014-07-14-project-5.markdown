@@ -8,5 +8,5 @@ title: Research and Notes
 project-date: June - Aug 2023
 client: Yale ITS Help Desk and Service Management
 category: Help Desk and Service Management
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Throughout the summer I would do research on topics my managers needed help gathering information for. <p>&nbsp;</p> <p>These topics included</p> <ul> <li> Canvas Updates and Articulate </li> <li> Chatbot Improvements </li> <li> ServiceNow Incident Definitions </li> <li> Incident Categories </li> <li> ServiceNow Walk-up Experience </li> <li> Testing Scenarios </li> <li> How Do Other Vendors/Universities Do Ticketing </li> <li> Client/Customer Experience and Customer Service </li> </ul>
 ---

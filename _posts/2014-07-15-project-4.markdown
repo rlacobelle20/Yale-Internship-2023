@@ -8,5 +8,5 @@ title: Training Improvement Planning
 project-date: June - July 2023
 client: Yale ITS Help Desk
 category: Help Desk
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The goal is to update the ITS canvas training. This is a ongoing project. I helped do research on different platforms that could be used that were not canvas.
 ---

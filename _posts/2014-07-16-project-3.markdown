@@ -8,5 +8,5 @@ title: Test Scenarios
 project-date: July - Aug. 2023
 client: Yale ITS Service Management
 category: Service Management
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The goal was to write high level test scenarios and run through them. These were done for the incident recategorization project updates. 
 ---
