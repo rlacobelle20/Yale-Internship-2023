@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2023-08-01
-img: game.png
+img: canvas.png
 alt: image-alt
 title: Training Improvement Planning
 project-date: June - July 2023

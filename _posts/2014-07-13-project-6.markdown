@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2023-08-01
-img: submarine.png
+img: linkedin_learning.jpg
 alt: image-alt
 title: Training
 project-date: June - Aug. 2023
