@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2023-08-02
-img: Yale-Symbol.png
+img: yale.png
 alt: image-alt
 title: Service Management
 project-date: Aug. 2023

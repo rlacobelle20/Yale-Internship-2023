@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2023-07-30
-img: Yale-Symbol.png
+img: yale.png
 alt: image-alt
 title: ITS Help Desk
 project-date: Aug. 2023
