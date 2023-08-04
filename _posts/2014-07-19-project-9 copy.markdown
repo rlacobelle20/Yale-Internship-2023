@@ -7,6 +7,6 @@ alt: image-alt
 title: Service Management
 project-date: Aug. 2023
 client: Service Management
-category: Worked For
-description: Yale Service Management
+category: 
+description: I worked on the Service Management team this summer. My manager was Glenn Hasiotis.
 ---

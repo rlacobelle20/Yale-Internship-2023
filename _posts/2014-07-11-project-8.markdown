@@ -5,8 +5,8 @@ date: 2023-07-30
 img: yale.png
 alt: image-alt
 title: ITS Help Desk
-project-date: Aug. 2023
+project-date: June - Aug. 2023
 client: Help Desk
-category: Worked For
-description: Yale ITS Help Desk
+category: 
+description: I worked on the Yale ITS Help Desk team over the summer. My manager was Cynthia Welsh.
 ---
